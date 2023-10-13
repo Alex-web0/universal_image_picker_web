@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:image_picker_web/src/models/media_info.dart';
+import 'package:universal_image_picker_web/src/models/media_info.dart';
 
 void main() {
   group('MediaInfo', () {

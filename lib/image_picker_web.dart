@@ -6,11 +6,11 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
-import 'package:image_picker_web/src/extensions/file_extensions.dart'
-    show FileModifier;
-import 'package:image_picker_web/src/models/media_info.dart';
-import 'package:image_picker_web/src/web_image_picker.dart';
 import 'package:universal_html/html.dart' as html;
+import 'package:universal_image_picker_web/src/extensions/file_extensions.dart'
+    show FileModifier;
+import 'package:universal_image_picker_web/src/models/media_info.dart';
+import 'package:universal_image_picker_web/src/web_image_picker.dart';
 
 export 'src/models/media_info.dart';
 
